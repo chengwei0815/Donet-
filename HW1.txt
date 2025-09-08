@@ -34,8 +34,6 @@ where Color is not NULL
 
 --7.Write a query that generates the following result set  from Production.Product:
 
-select 'NAME: ' + name + ' -- COLOR: ' + color as ProductColor from Production.Product where Color is not NULL 
-
 <single column>
 NAME: LL Crankarm -- COLOR: Black
 NAME: ML Crankarm -- COLOR: Black
@@ -46,6 +44,8 @@ NAME: Chainring -- COLOR: Black
 NAME: Freewheel -- COLOR: Silver
 NAME: Front Derailleur Cage -- COLOR: Silver
 ...
+
+select 'NAME: ' + name + ' -- COLOR: ' + color as ProductColor from Production.Product where Color is not NULL 
 
 --8.Write a query to retrieve the columns ProductID and Name from the Production.Product table filtered by ProductID from 400 to 500
 SELECT ProductID, Name from Production.Product
@@ -94,3 +94,4 @@ order by color desc
 
 select distinct ProductSubcategoryID, Color from Production.Product
 where ProductSubcategoryID is not null and Color is not null
+
