@@ -1,7 +1,9 @@
-﻿using System;
+using System;
+using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,21 +15,33 @@ namespace HW1
 {
     public class DataTypeInfo
     {
+
         public static void DataType()
         {
-          
-            Console.WriteLine("sbyte: " + sbyte.MinValue + " " + sbyte.MaxValue + " " + sizeof(sbyte));
-            Console.WriteLine("byte: " + byte.MinValue + " " + byte.MaxValue + " " + sizeof(byte));
-            Console.WriteLine("short: " + short.MinValue + " " + short.MaxValue + " " + sizeof(short));
-            Console.WriteLine("ushort: " + ushort.MinValue + " " + ushort.MaxValue + " " + sizeof(ushort)); 
-            Console.WriteLine("int: " + int.MinValue + " " + int.MaxValue + " " + sizeof(int)); 
-            Console.WriteLine("uint: " + uint.MinValue + " " + uint.MaxValue + " " + sizeof(uint)); 
-            Console.WriteLine("long: " + long.MinValue + " " + long.MaxValue + " " + sizeof(long)); 
-            Console.WriteLine("ulong: " + ulong.MinValue + " " + ulong.MaxValue + " " + sizeof(ulong)); 
-            Console.WriteLine("float: " + float.MinValue + " " + float.MaxValue + " " + sizeof(float));
-            Console.WriteLine("double: " + double.MinValue + " " + double.MaxValue + " " + sizeof(double));
-            Console.WriteLine("decimal: " + decimal.MinValue + " " + decimal.MaxValue + " " + sizeof(decimal));
-         
+            PrintInfo<sbyte>();
+            PrintInfo<byte>();
+            PrintInfo<short>();
+            PrintInfo<ushort>();
+            PrintInfo<int>();
+            PrintInfo<uint>();
+            PrintInfo<long>();
+            PrintInfo<ulong>();
+            PrintInfo<float>();
+            PrintInfo<double>();
+            PrintInfo<decimal>();
+
         }
+
+        static void PrintInfo<T>()where T : struct
+        {
+            Type type = typeof(T);
+            object min = type.GetField("MinValue").GetValue(null);
+            object max = type.GetField("MaxValue").GetValue(null);
+            int size = Marshal.SizeOf(type);
+
+            Console.WriteLine($"{type.Name}: Min = {min}, Max = {max}, Size = {size} bytes");
+        }
+
+
     }
 }
