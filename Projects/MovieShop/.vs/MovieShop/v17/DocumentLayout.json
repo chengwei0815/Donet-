@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251009013614_CreatingMovieGenreJunctionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251009013614_CreatingMovieGenreJunctionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\infrastructure\\data\\movieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\movieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\applicationcore\\entities\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\applicationcore\\entities\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\applicationcore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\applicationcore\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251008212140_CreatingMovieGenreJunctionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251008212140_CreatingMovieGenreJunctionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251008211257_CreatingTrailerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251008211257_CreatingTrailerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007135124_CreatingMovieTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251007135124_CreatingMovieTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\infrastructure\\migrations\\20251007130703_updatinggenretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251007130703_updatinggenretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\infrastructure\\migrations\\20251007124701_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251007124701_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\movieshopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\projects\\project2\\donet-\\projects\\movieshop\\movieshopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251009013614_CreatingMovieGenreJunctionTable.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251009013614_CreatingMovieGenreJunctionTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251009013614_CreatingMovieGenreJunctionTable.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251009013614_CreatingMovieGenreJunctionTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251009013614_CreatingMovieGenreJunctionTable.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:36:15.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\MovieGenre.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\MovieGenre.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:30:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\Genre.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:59:31.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trailer.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\Trailer.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Trailer.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\Trailer.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Trailer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:18:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Data\\MovieShopDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MovieShopDbContext.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Data\\MovieShopDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MovieShopDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:04:33.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Entities\\Movie.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Movie.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:15:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251008212140_CreatingMovieGenreJunctionTable.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251008212140_CreatingMovieGenreJunctionTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251008212140_CreatingMovieGenreJunctionTable.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251008212140_CreatingMovieGenreJunctionTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251008212140_CreatingMovieGenreJunctionTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:21:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251008211257_CreatingTrailerTable.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251008211257_CreatingTrailerTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251008211257_CreatingTrailerTable.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251008211257_CreatingTrailerTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251008211257_CreatingTrailerTable.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:12:59.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251007135124_CreatingMovieTable.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007135124_CreatingMovieTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251007135124_CreatingMovieTable.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007135124_CreatingMovieTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251007135124_CreatingMovieTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:51:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251007130703_UpdatingGenreTable.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007130703_UpdatingGenreTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251007130703_UpdatingGenreTable.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007130703_UpdatingGenreTable.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251007130703_UpdatingGenreTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:07:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251007124701_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007124701_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251007124701_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\Infrastructure\\Migrations\\20251007124701_InitialMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251007124701_InitialMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:47:07.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Program.cs",
+              "RelativeToolTip": "MovieShopMVC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:31:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieShopMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\Projects\\Project2\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\appsettings.json",
+              "RelativeToolTip": "MovieShopMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T02:50:38.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

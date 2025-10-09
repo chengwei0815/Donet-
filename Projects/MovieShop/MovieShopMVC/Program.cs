@@ -1,12 +1,19 @@
 using ApplicationCore.Contracts.Services;
+using Infrastructure.Data;
 using Infrastructure.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-//builder.Services.AddScoped<IMovieService, MovieService>();
-builder.Services.AddScoped<IMovieService, MovieServiceMock>();
+builder.Services.AddScoped<IMovieService, MovieService>();
+//builder.Services.AddScoped<IMovieService, MovieServiceMock>();
+
+builder.Services.AddDbContext<MovieShopDbContext>(options => {
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MovieShopDbConnection"));
+});
+
 // Dependency Injection
 // AddSingleton; AddTransient; AddScoped
 
