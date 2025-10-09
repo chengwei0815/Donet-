@@ -12,14 +12,17 @@ namespace MovieShopMVC.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IMovieService _movieService;
-        private readonly int x = 5;
+        private readonly int x = 1;
      
         public HomeController(ILogger<HomeController> logger, IMovieService movieService)
         {
             _logger = logger;
             _movieService = movieService;
+            x = 5;
         }
 
+        //https://localhost:7049/home/index
+        //Routing
         [HttpGet]
         public IActionResult Index()
         {
