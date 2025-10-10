@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\movieshopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\movieshopmvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\movieshopmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\movieshopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\infrastructure\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0D60E64-482B-4F29-A788-72226C3E2BA1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\applicationcore\\contracts\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\applicationcore\\contracts\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA75BAE-FF0E-47E7-9165-FC25FD2FF959}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\donet-\\projects\\movieshop\\movieshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94FBA27B-8592-4026-854E-34E9FDC15A49}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 300,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,101 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "MovieShopMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\appsettings.json",
-              "RelativeToolTip": "MovieShopMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T20:31:58.028Z"
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MovieShopMVC\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T01:35:02.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\Infrastructure\\Repositories\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\Infrastructure\\Repositories\\MovieRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\MovieRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieShopMVC\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:35:56.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T01:27:33.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Program.cs",
-              "RelativeDocumentMoniker": "MovieShopMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Program.cs",
-              "RelativeToolTip": "MovieShopMVC\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:01:24.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MovieShopMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:13:29.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:55:13.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:26:01.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\Infrastructure\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\Infrastructure\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:14:55.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA7wA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T04:27:21.059Z"
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieShopMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T23:00:00.85Z"
             }
           ]
         }
