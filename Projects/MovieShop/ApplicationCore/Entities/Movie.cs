@@ -27,10 +27,13 @@ namespace ApplicationCore.Entities
         public string? UpdatedBy { get; set; }
         public string? CreatedBy { get; set; }
         public decimal? Rating { get; set; }
-
         public ICollection<Trailer> Trailers { get; set; }
-
         public ICollection<MovieGenre> GenresOfMovie { get; set; }
-
+        //==================================================================
+        //public ICollection<MovieCrew> CrewsOfMovie { get; set; }
+        //public ICollection<MovieCast> CastsOfMovie { get; set; }
+        //public ICollection<Purchase> UsersOfPurchase { get; set; }
+        //public ICollection<Favorite> UsersOfFavorite { get; set; }
+        //public ICollection<Review> UsersOfReview { get; set; }
     }
 }
