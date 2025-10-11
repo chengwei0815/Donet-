@@ -24,7 +24,7 @@ namespace MovieShopMVC.Controllers
         //https://localhost:7049/home/index
         //Routing
         [HttpGet]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             //method(int x, IMovieService movieService)
             //var movieService = new MovieService();
@@ -45,7 +45,7 @@ namespace MovieShopMVC.Controllers
 
             //var movieService = new MovieService();
             //var movies = movieService.Get30HighestGrossingMovies();
-            var movies = _movieService.Get30HighestGrossingMovies();
+            var movies = await _movieService.Get30HighestGrossingMovies();
             return View(movies);
         }
 
