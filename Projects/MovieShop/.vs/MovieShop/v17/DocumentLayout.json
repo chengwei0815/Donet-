@@ -144,7 +144,7 @@
               "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Movies\\Genres.cshtml",
               "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Movies\\Genres.cshtml",
               "RelativeToolTip": "MovieShopMVC\\Views\\Movies\\Genres.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwC8AAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T01:36:23.046Z",
               "EditorCaption": ""
@@ -159,8 +159,7 @@
               "RelativeToolTip": "Infrastructure\\Services\\MovieService.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:50:52.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T17:50:52.482Z"
             },
             {
               "$type": "Document",
@@ -170,10 +169,9 @@
               "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "MovieShopMVC\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBQAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBQAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T01:27:33.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T01:27:33.098Z"
             },
             {
               "$type": "Document",
@@ -185,8 +183,7 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IMovieService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:48:19.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T13:48:19.154Z"
             },
             {
               "$type": "Document",
@@ -198,8 +195,7 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\MovieRepository.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:10:12.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T13:10:12.314Z"
             },
             {
               "$type": "Document",
@@ -211,8 +207,7 @@
               "RelativeToolTip": "ApplicationCore\\Models\\GenreModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:42:55.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T17:42:55.833Z"
             },
             {
               "$type": "Document",
@@ -224,8 +219,7 @@
               "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T22:03:45.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T22:03:45.937Z"
             },
             {
               "$type": "Document",
@@ -237,8 +231,7 @@
               "RelativeToolTip": "ApplicationCore\\Models\\PagedResultSet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T04:03:01.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T04:03:01.389Z"
             },
             {
               "$type": "Document",
