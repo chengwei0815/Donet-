@@ -15,6 +15,8 @@ namespace Infrastructure.Data
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Trailer> Trailers { get; set; }
         public DbSet<MovieGenre> MovieGenres { get; set; }
+        public IEnumerable<object> MoviesGenres { get; internal set; }
+
         public MovieShopDbContext(DbContextOptions<MovieShopDbContext> options) : base(options) 
         {
 
