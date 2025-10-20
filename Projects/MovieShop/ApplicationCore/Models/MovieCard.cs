@@ -12,8 +12,6 @@ namespace ApplicationCore.Models
 
         public string Title { get; set; }
 
-        public string PosterUrl { get; set; } 
+        public string PosterUrl { get; set; }
     }
 }
-
-//ADO.NET; Dapper; Entity Framework Core (EF Core); 

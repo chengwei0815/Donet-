@@ -9,12 +9,11 @@ using System.Threading.Tasks;
 namespace Infrastructure.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
-
     {
         protected readonly MovieShopDbContext _dbContext;
-        public Repository(MovieShopDbContext dbContext)
-        {
-            _dbContext = dbContext;
+        public Repository(MovieShopDbContext dbContext) 
+        { 
+            _dbContext = dbContext; 
         }
         public async virtual Task<T> Add(T entity)
         {
