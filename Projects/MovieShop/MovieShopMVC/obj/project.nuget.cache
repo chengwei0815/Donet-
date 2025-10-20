@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "585qoQW/N0o=",
+  "dgSpecHash": "fLhqmWl4pr0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheng\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\MovieShopMVC.csproj",
+  "projectFilePath": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\MovieShopMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheng\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\cheng\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

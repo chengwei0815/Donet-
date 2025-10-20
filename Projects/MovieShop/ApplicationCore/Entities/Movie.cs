@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,11 +30,10 @@ namespace ApplicationCore.Entities
         public decimal? Rating { get; set; }
         public ICollection<Trailer> Trailers { get; set; }
         public ICollection<MovieGenre> GenresOfMovie { get; set; }
-        //==================================================================
-        //public ICollection<MovieCrew> CrewsOfMovie { get; set; }
-        //public ICollection<MovieCast> CastsOfMovie { get; set; }
-        //public ICollection<Purchase> UsersOfPurchase { get; set; }
-        //public ICollection<Favorite> UsersOfFavorite { get; set; }
-        //public ICollection<Review> UsersOfReview { get; set; }
+        public ICollection<MovieCast> CastsOfMovie { get; set; }
+        public ICollection<MovieCrew> CrewsOfMovie { get; set; }
+        public ICollection<Favorites> UsersOfFavorite { get; set; }
+        public ICollection<Review> UsersOfReview { get; set; }
+        public ICollection<Purchase> UsersOfPurchase { get; set; }
     }
 }

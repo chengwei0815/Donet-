@@ -1,5 +1,4 @@
-﻿using ApplicationCore.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,12 +22,10 @@ namespace ApplicationCore.Models
         public DateTime? ReleaseDate { get; set; }
         public int? RunTime { get; set; }
         public decimal? Price { get; set; }
-        public decimal? Rating { get; set; } = 0;
+        public decimal? Rating { get; set; }
+
         public List<CastModel> Casts { get; set; }
         public List<TrailerModel> Trailers { get; set; }
         public List<GenreModel> Genres { get; set; }
-
-
-
     }
 }

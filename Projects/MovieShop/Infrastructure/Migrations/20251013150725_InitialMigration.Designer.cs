@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(MovieShopDbContext))]
-    [Migration("20251007124701_InitialMigration")]
+    [Migration("20251013150725_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(MovieShopDbContext))]
-    [Migration("20251007130703_UpdatingGenreTable")]
+    [Migration("20251013173406_UpdatingGenreTable")]
     partial class UpdatingGenreTable
     {
         /// <inheritdoc />
