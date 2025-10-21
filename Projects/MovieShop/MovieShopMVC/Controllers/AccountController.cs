@@ -18,6 +18,7 @@ namespace MovieShopMVC.Controllers
         [HttpGet]
         public async Task<IActionResult> Login()
         {
+            // return empty login page
             return View();
         }
         [HttpPost]
@@ -33,7 +34,7 @@ namespace MovieShopMVC.Controllers
                 // new claim("Language", "English")
             };
             var claimIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-            
+
             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
                 new ClaimsPrincipal(claimIdentity));
 
@@ -47,9 +48,19 @@ namespace MovieShopMVC.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(RegisterModel model)
         {
-            
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+
             var user = await _accountService.RegisterUser(model);
             return RedirectToAction("Login");
+        }
+        [HttpGet]
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+            return LocalRedirect("~/");
         }
     }
 }

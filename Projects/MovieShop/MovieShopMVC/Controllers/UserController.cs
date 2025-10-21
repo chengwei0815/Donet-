@@ -7,6 +7,11 @@ namespace MovieShopMVC.Controllers
     [Authorize]
     public class UserController : Controller
     {
+        private int GetCurrentUserId()
+        {
+            return Convert.ToInt32(this.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value);
+        }
+
         [HttpGet]
         //[Authorize]
         public async Task<IActionResult> Purchases()
@@ -20,16 +25,14 @@ namespace MovieShopMVC.Controllers
             //    var userId = Convert.ToInt32(this.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value);
             //}
             // Get purchased movies by userId and pass to the view
-            var userId = Convert.ToInt32(this.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value);
-
+            var userId = GetCurrentUserId();
             return View();
         }
         [HttpGet]
         //[Authorize]
         public async Task<IActionResult> Favorites()
         {
-            var userId = Convert.ToInt32(this.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value);
-
+            var userId = GetCurrentUserId();
             return View();
         }
 
@@ -37,8 +40,7 @@ namespace MovieShopMVC.Controllers
         //[Authorize]
         public async Task<IActionResult> Reviews()
         {
-            var userId = Convert.ToInt32(this.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value);
-
+            var userId = GetCurrentUserId();
             return View();
         }
     }
