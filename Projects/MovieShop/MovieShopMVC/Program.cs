@@ -7,8 +7,19 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using MovieShopMVC.Middlewares;
 using MovieShopMVC.Services;
+using Serilog;
+
+//Configure Serilog before builder creation
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .WriteTo.File("Logs/movieshop_log_.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
 
 var builder = WebApplication.CreateBuilder(args);
+//replaces built-in logging with Serilog
+builder.Host.UseSerilog();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -46,7 +57,7 @@ else
     app.UseMovieShopExceptionMiddleware();
 }
 
-    app.UseHttpsRedirection();
+app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
