@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\logs\\movieshop_log_20251022.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\logs\\movieshop_log_20251022.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\middlewares\\movieshopexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\middlewares\\movieshopexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -202,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 316,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -214,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "movieshop_log_20251022.txt",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
               "RelativeDocumentMoniker": "MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
@@ -227,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MovieShopExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
@@ -235,12 +235,11 @@
               "RelativeToolTip": "MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA1wCAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T01:40:06.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T01:40:06.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Program.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Program.cs",
@@ -248,8 +247,7 @@
               "RelativeToolTip": "MovieShopMVC\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:48:29.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:48:29.037Z"
             },
             {
               "$type": "Document",
@@ -265,13 +263,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MovieShopMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwBwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T15:34:46.574Z",
               "EditorCaption": ""
