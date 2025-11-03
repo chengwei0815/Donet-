@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\views\\shared\\_logininfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\views\\shared\\_logininfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\movieshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE606127-E848-4BE5-A216-8CBE93DD835D}|MovieShopMVC\\MovieShopMVC.csproj|solutionrelative:movieshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F53B6E5-EFE8-426E-9DE2-90AE2DB2FCB7}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\cheng\\documents\\rothurtech\\hw\\hw-movieshop\\denet-updated\\donet-\\projects\\movieshop\\applicationcore\\validators\\yearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 316,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -214,43 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "MovieShopAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\appsettings.json",
-              "RelativeToolTip": "MovieShopAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-21T21:10:34.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovieShopExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
-              "RelativeToolTip": "MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wCAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T01:40:06.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "movieshop_log_20251022.txt",
-              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
-              "RelativeDocumentMoniker": "MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
-              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
-              "RelativeToolTip": "MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-23T02:45:33.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\MovieService.cs",
@@ -262,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Home\\Index.cshtml",
@@ -270,12 +234,60 @@
               "RelativeToolTip": "MovieShopMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T15:17:16.326Z",
+              "WhenOpened": "2025-10-14T15:17:16.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T13:55:55.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "movieshop_log_20251022.txt",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
+              "RelativeToolTip": "MovieShopMVC\\Logs\\movieshop_log_20251022.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-23T02:45:33.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieShopExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
+              "RelativeToolTip": "MovieShopMVC\\Middlewares\\MovieShopExceptionMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T01:40:06.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieShopAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\appsettings.json",
+              "RelativeToolTip": "MovieShopAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T21:10:34.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\Program.cs",
               "RelativeDocumentMoniker": "MovieShopAPI\\Program.cs",
@@ -287,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\HomeController.cs",
@@ -299,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Program.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Program.cs",
@@ -311,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Shared\\Error.cshtml",
@@ -323,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MovieShopAPI\\Controllers\\AccountController.cs",
@@ -335,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MovieShopAPI\\Controllers\\MoviesController.cs",
@@ -347,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MovieResository.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\Infrastructure\\Repositories\\MovieResository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MovieResository.cs",
@@ -359,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\appsettings.json",
               "RelativeDocumentMoniker": "MovieShopMVC\\appsettings.json",
@@ -371,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\MoviesController.cs",
@@ -383,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MovieShopAPI\\Controllers\\UserController.cs",
@@ -395,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_LoginInfo.cshtml",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Shared\\_LoginInfo.cshtml",
               "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Shared\\_LoginInfo.cshtml",
@@ -407,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MovieShopMVC\\Controllers\\AccountController.cs",
@@ -417,18 +429,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T03:40:52.254Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cheng\\Documents\\RothurTech\\HW\\HW-MovieShop\\Denet-Updated\\Donet-\\Projects\\MovieShop\\MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T13:55:55.476Z"
             },
             {
               "$type": "Document",

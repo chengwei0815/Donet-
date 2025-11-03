@@ -10,7 +10,7 @@ export class Account {
   constructor(private http: HttpClient) {
   }
   login(login: LoginModel): Observable<boolean> {
-    return this.http.post('http://localhost:7248/api/account/login', login).pipe(
+    return this.http.post('http://localhost:7025/api/account/login', login).pipe(
       map((response: any) => {
         if (response && response.token) {
           localStorage.setItem('token', response.token);
@@ -23,7 +23,7 @@ export class Account {
   }
 
   logout(){
-    
+    localStorage.removeItem('token');
   }
   
 }
